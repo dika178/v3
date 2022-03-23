@@ -1056,7 +1056,7 @@ menunya = `*「 PAYMENT 」*
 • Gopay : _Silakan scan qr di atas_
 • Dana : _Silakan scan qr di atas_
 • Ovo : _Silakan scan qr di atas_
-• Pulsa : _089525641549_`
+• Pulsa : _083877705642_`
 but = [
 { buttonId: `${prefix}menu`, buttonText: { displayText: 'ᴍᴇɴᴜ' }, type: 1 },
 { buttonId: `${prefix}owner`, buttonText: { displayText: 'ᴏᴡɴᴇʀ' }, type: 1 }
